@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: oauth-springboot
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: mushtaq
+Implementation-Vendor-Id: com.oauth.demo
+Build-Jdk: 1.8.0_292
+Implementation-URL: https://spring.io/projects/spring-boot/oauth-sprin
+ gboot
+Created-By: Maven Integration for Eclipse
+
